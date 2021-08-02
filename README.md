@@ -1,5 +1,5 @@
 # Emmy Morris
-## Pronouns- She/Her
+### Pronouns- She/Her
 A software developer who is passionate for creating great user experiences and writing clear and concise code. 
 
 
