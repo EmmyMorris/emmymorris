@@ -1,6 +1,6 @@
-### Hi there 👋
 # Emmy Morris (she/her)
 A software developer who is passionate for creating great user experiences and writing clear and concise code. 
+
 
 📫 How to reach me: emmymorris1102@gmail.com
 
