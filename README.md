@@ -2,7 +2,7 @@
 # Emmy Morris (she/her)
 A software developer who is passionate for creating great user experiences and writing clear and concise code. 
 
-https://img.shields.io/badge/LinkedIn-EmmyMorris?style=for-the-badge&logo=linkedin&logoColor=white
+<img src="{https://img.shields.io/badge/LinkedIn-EmmyMorris?style=for-the-badge&logo=linkedin&logoColor=white}" />
 
 ![Emmys's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmymorris&show_icons=true&theme=tokyonight)
 
