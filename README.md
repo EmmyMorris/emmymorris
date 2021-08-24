@@ -1,3 +1,5 @@
+<div align="center">
+ 
 # Hi, I'm Emmy 👋 
 #### Pronouns- She/Her
 A software developer who is passionate for creating great user experiences and writing clear and concise code. 
@@ -23,3 +25,5 @@ A software developer who is passionate for creating great user experiences and w
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Travis](https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white)
+  
+</div>
